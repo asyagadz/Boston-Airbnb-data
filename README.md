@@ -5,6 +5,7 @@ The purpose of the project is to choose a dataset and choose 3 questions to answ
 ## Installations
 
 ## Project Motivation
+This project is the first project from Udacity's Data Science Nanodegree  - the Introduction to Data Science. The task is to choose 
 
 ## File Descriptions
 

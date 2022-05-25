@@ -17,14 +17,14 @@ I have defined the following three questions to answer:
 The project contains:
 - A Readme.md file
 - Notebook folder
- - 01.01.-ag-initial-analysis.ipynb
- - 02.01.-ag-data-cleaning.ipynb
- - 02.02.-ag-data-cleaning-feature-engineering-description.ipynb
- - 02.03.-ag-data-cleaning-feature-engineering-other-text-columns.ipynb
- - 03.01.-ag-feature-engineering.ipynb
- - 04.01.-ag-feature-selection-modelling-price-prediction.ipynb
- - 05.01.-ag-exploratory-data-analysis.ipynb
- - 06.01.-ag-occupancy-rates.ipynb
+  - 01.01.-ag-initial-analysis.ipynb
+  - 02.01.-ag-data-cleaning.ipynb
+  - 02.02.-ag-data-cleaning-feature-engineering-description.ipynb
+  - 02.03.-ag-data-cleaning-feature-engineering-other-text-columns.ipynb
+  - 03.01.-ag-feature-engineering.ipynb
+  - 04.01.-ag-feature-selection-modelling-price-prediction.ipynb
+  - 05.01.-ag-exploratory-data-analysis.ipynb
+  - 06.01.-ag-occupancy-rates.ipynb
 - src folder:
   - data:
     - raw data - the raw files as downloaded from Kaggle

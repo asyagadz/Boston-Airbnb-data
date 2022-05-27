@@ -52,5 +52,7 @@ TBased on the analysis performed, we have seen some interesting information abou
 - there are neighbourhoods that reveal a capacity for new AirBNBs.
 - a more precise modelling and data mining is necessary to build more robust model, that explains better what affect the prices and its values.
 
+The blog post for the analysis can be found here: https://medium.com/@asya.gadz/a-study-on-airbnb-boston-data-410940343dd8
+
 ## Licensing, Authors, Acknowledgements, etc.
 I have used some functions or code that is from Feature Engineering course & Feature Selection course from Udemy, lead by Soledad Galli.
